@@ -1,1 +1,9 @@
+Entrada --------------------------------------------------------------------
+1. Leia e armazene o número "n" que se deseja multiplicar por 9; 
+Processamento --------------------------------------------------------------
+2. Subtrair n-1 e armazene como "n1";
+3. Subtrair 10-n e armazene como "n2";
+4. Realize a expressão (n1 x 10) + n2 e armazene como "r";
+Saída ----------------------------------------------------------------------
+5. Apresente "r" e encerre o programa;
 
