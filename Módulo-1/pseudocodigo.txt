@@ -1,1 +1,7 @@
-
+#Início
+ler (n)
+n1 = n-1
+n2 = 10-n
+r = n1*10+n2
+Apresentar (r)
+#Fim
