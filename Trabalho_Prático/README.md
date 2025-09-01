@@ -9,5 +9,5 @@ Implementação:
 
 Conclusão: 
 Eu acredito que para o programa ficar totalmente livre de nenhuma falha, levaria mais trabalho e tempo, portanto, o programa possui 100% 
-de suas ferramentas funcionais, com o uso correto de cada uma. A dificuldade que tive foi o cansasso que um programa tão exteso como esse causa, 
+de suas ferramentas funcionais, com o uso correto de cada uma. A dificuldade que tive foi o cansaço que um programa tão exteso como esse causa, 
 algumas vezes eu me pegava escrevendo besteiras por estar cansado, mas, no geral, foi um trabalho muito divertido de ser feito!
